@@ -1,4 +1,4 @@
----
+---gitteam
 title: Welcome
 description: Dune is a web-based platform that allows you to query public blockchain data and aggregate it into beautiful dashboards.
 ---
